@@ -5,13 +5,14 @@
 
     Ankit Pruthi
 	ankit.pruthi.15@outlook.com
-	DevOps Engineer
+	DevOps-Engineer
 
 # THANKS
 
-    <name>
+    Ankit Pruthi
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+	Docker, Java Programming
