@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Ankit Pruthi <twitter>
+    Ankit Pruthi
+	ankit.pruthi.15@outlook.com
+	DevOps Engineer
 
 # THANKS
 
