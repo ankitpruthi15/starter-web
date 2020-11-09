@@ -19,7 +19,8 @@ GIT Rebase practice. We have done practice now.
 Fork the repo and raise pull requests for review.
 
 ## GIT Comparison
-Adding GIT Comparisons lecture
+Adding GIT Comparisons lecture.
+Adding new lectures for stashing
 
 ## GITHub Content
 Comparison with Repo
